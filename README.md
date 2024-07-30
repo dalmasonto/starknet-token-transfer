@@ -1,5 +1,3 @@
-# Mantine Vite template
+# Starknet Token Transfer
 
-Get started with the template by clicking `Use this template` button on the top of the page.
-
-[Documentation](https://mantine.dev/guides/vite/)
+This repository highlights a simple token transfer frontend to allow users tranfer tokens between different accounts
